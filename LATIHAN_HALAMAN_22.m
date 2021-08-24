@@ -5,7 +5,7 @@
 2 / (6 / 0.3)
 
 %NOMOR 2
-A = 25, B = 125, C = 89, D = 98
+A = 25, B = 50, C = 125, D = 89
 X = A + B + C
 Y = A / (D + B)
 Z = D ^ A / B + C
@@ -21,7 +21,7 @@ Z = D ^ A / B + C
 % nilai-awal (variabel tidak valid)
 
 %NOMOR 4
-x = pi / 6 ; y = 0.0001
+x = pi / 6 ; y = 0.001
 sqrt(y)
 exp(min(x))
 sin(x)
