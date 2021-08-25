@@ -37,7 +37,7 @@ prod(size(W))
 mean = 1
 varians = 0.2
 
-bilangan_acak = sqrt(varians) * randn(1,100) + mu
+bilangan_acak = sqrt(varians) * randn(1,100) + mean
 
 %NOMOR 6
 M = [1 5 10 15 20
